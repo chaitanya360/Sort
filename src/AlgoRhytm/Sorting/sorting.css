@@ -1,0 +1,25 @@
+.bars_container {
+  position: relative;
+  bottom: 0px;
+}
+
+.bar {
+  background-color: rgba(3, 2, 2, 0.747);
+  color: rgba(27, 3, 3, 0);
+  /* border: 1px solid red; */
+  border-radius: 20px;
+  height: 5px;
+  margin: 1px;
+}
+
+.bars_container_top {
+  background-color: red;
+}
+
+.sorted_bar {
+  background-color: rgba(248, 252, 6, 0.945);
+}
+
+.current_bar {
+  background-color: rgb(217, 255, 0);
+}

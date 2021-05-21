@@ -1,0 +1,32 @@
+.bars_container {
+  position: absolute;
+  bottom: 10px;
+  justify-content: end;
+  width: 100%;
+}
+
+.div1 {
+  background-color: red;
+  color: rgba(255, 0, 0, 0);
+
+  height: 5px;
+  width: 50%;
+}
+
+.div2 {
+  height: 5px;
+  color: rgba(255, 0, 0, 0);
+  background-color: orange;
+  width: 40%;
+}
+
+.div3 {
+  background-color: red;
+  width: 50%;
+}
+
+.div4 {
+  display: inline-block;
+  background-color: purple;
+  width: 40%;
+}

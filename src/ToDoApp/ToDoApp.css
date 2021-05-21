@@ -1,0 +1,25 @@
+.delete_btn {
+  float: right;
+  opacity: 0.8;
+  font-size: xx-small;
+}
+
+.date_field {
+  font-size: smaller;
+  color: rgb(134, 86, 7);
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: 0.9;
+}
+
+textarea {
+  border-radius: 0.3em;
+}
+
+.listItem_container:hover {
+  border: red 2px solid;
+  cursor: pointer;
+}
+
+.completed_list {
+  border: 3px solid green;
+}
